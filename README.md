@@ -12,4 +12,6 @@
 ## Beurten
 1. j - goed!
 2. o - goed!
-3.
+3. s - goed!
+4. t - goed!
+5. i - goed!
