@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|j.|o|.|.|.|
+|j|o|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -10,5 +10,5 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. a - goed!
-2.  
+1. j - goed!
+2. o - goed!
